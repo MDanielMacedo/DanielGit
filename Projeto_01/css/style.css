@@ -1,0 +1,287 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+html, body{
+	height: 100%;
+}
+
+.clear{
+	clear: both;
+}
+
+.center{
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1280px;
+}
+
+.header{
+	width: 100%;
+	height: 60px;
+	padding: 0 2%;
+	background-color: #212343;
+}
+
+.header img{
+	margin: 15px;
+}
+
+.banner{
+	width: 100%;
+	height: 557px;
+	padding: 0 2%;
+	background-image:url('../imagens/header_bg.png');
+	background-size: cover;
+	background-position: center;
+}
+
+.banner > .center{
+	height: 100%;
+}
+
+.form{
+	width: 400px;
+	height: calc(100% + 30px);
+	padding: 20px;
+	background-color: white;
+	float: right;
+	position: relative;
+	top: -15px;
+	border-color: rgba(120,120,120,.5); 
+	border-style: solid;
+	border-width: 12px;
+	background-color: white;
+	background-clip: padding-box;
+	/*background-origin tem o mesmo conceito porém serve para imagens*/
+}
+
+.form h2{
+	font-weight: normal;
+	color: #999999;
+	font-size: 21px;
+}
+
+.input-banner{
+	margin-top: 20px;
+}
+
+.input-banner span{
+	width: 100%;
+	display: inline-block;
+	color: #bbbbbb;
+	font-size: 17px;
+}
+
+.form p{
+	width: 100%;
+	margin: 20px 0;
+	display: inline-block;
+	color: #bbbbbb;
+	font-size: 17px;
+}
+
+.input-banner input[type=text]{
+	width: 344px;
+	height: 55px;
+	margin-top: 8px;
+	padding: 8px 10px;
+	border: 1px solid #ccc;
+}
+
+.input-banner input[type=text]:focus{
+	outline: 0;
+}
+
+.form .input-banner-submit{
+	text-align: center;
+}
+
+.form input[type=submit]{
+	width: 280px;
+	height: 56px;
+	background-color: #363a6d;
+	font-size: 25px;
+	color: white;
+	display: inline-block;
+	border-bottom: 5px solid #4a5097;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	cursor: pointer;
+}
+
+.form input[type=submit]:hover{
+	background-color: #323665;
+}
+
+.list-banner{
+	width: 519px;
+	height: 270px;
+	margin-top: 100px;
+	padding: 30px;
+	background-color: rgba(33,35,67,0.7);
+	float: left;
+}
+
+.list-banner ul{
+	list-style-position: inside;
+}
+
+.list-banner ul li{
+	margin-top: 18px;
+	color: white;
+}
+
+.banner2{
+	padding: 40px 2%;
+	background-color: #ddd;
+	text-align: center;
+}
+
+.banner2 h2{
+	font-weight: normal;
+}
+
+.banner2 p{
+	width: 100%;
+	max-width: 768px;
+	margin: 15px 0;
+	display: inline-block;
+	text-align: justify;
+}
+
+.arrow{
+	width: 40px;
+	height: 40px;
+	background-image: url(../imagens/arrow.png);
+	background-size: 100% 100%;
+	position: relative;
+	top: 60px;
+	left: 50%;
+	margin-left: -20px;
+}
+
+.section1{
+	padding: 90px 2%;
+}
+
+.section1 h2{
+	text-align: center;
+	color: #462663;
+}
+
+.section1-banner{
+	margin-top: 40px;
+	text-align: center;
+}
+
+.single-banner{
+	width: 33.333%;
+	float: left;
+	padding: 30px;
+}
+
+.single-banner img{
+	width: 70px;
+}
+
+.single-banner p{
+	padding: 10px;
+	text-align: justify;
+	display: inline-block;
+}
+
+.footer{
+	border-top: 2px solid #888;
+	padding: 20px 0;
+	text-align: center;
+	color: #888; 
+}
+
+.footer p{
+	margin-top: 8px;
+}
+
+@media screen and (max-width: 1024px){
+	.header{
+		width: 100%;
+		height: auto;
+		padding: 15px 0;
+		text-align: center;
+	}
+	
+	.header img{
+		margin: 0;
+	}
+
+	.banner{
+		width: 100%;
+		height: auto;
+		padding: 40px 2%;
+		text-align: center;
+	}
+
+	.list-banner{
+		width: 40%;
+		max-width: 500px;
+		height: auto;
+		padding: 30px 0;
+		float: left;
+		display: inline-block;
+	}
+
+	.form{
+		max-width: 400px;
+		width: 60%;
+		height:100%;
+		padding: 10px;
+		float: right;
+		top: 0;
+	}
+
+	.input-banner input[type=text]{
+		width: 100%;
+		height: 55px;
+	}
+
+
+	.form input[type=submit]{
+		width: 100%;
+		max-width: 280px; 
+		height: 56px;
+		
+	}
+}
+
+@media screen and (max-width: 768px){
+	.banner2{
+		padding-right: 4%;
+		padding-left: 4%;
+	}
+
+	.list-banner{
+		width: 100%;
+		margin-top: 0;
+		float: none;
+		display: inline-block;
+	}
+
+	.form{
+		width: 90%;
+		margin-top: 30px;
+		float: none;
+		display: inline-block;
+	}
+
+	.single-banner{
+		width: 100%;
+		max-width: 600px;
+		float: none;
+		display: inline-block;
+		padding: 30px 0;
+	}
+}
