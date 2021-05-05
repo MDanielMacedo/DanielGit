@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"Tot",
+				"Total"
+			],
+			[
+				"m",
+				"max\tAttr"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"l",
+				"list\tAttr"
+			],
+			[
+				"o",
+				"optgroup\tTag"
+			],
+			[
+				"c",
+				"cNasc"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"e",
+				"E-mail"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"_",
+				"_imagens"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"b",
+				"background-position\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"f",
+				"ffffff"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"bode",
+				"border\tproperty"
+			],
+			[
+				"g",
+				"google-glass"
+			],
+			[
+				"j",
+				"janela"
+			],
+			[
+				"ar",
+				"area\tTag"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"G",
+				"Glass"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fa",
+				"fale-conosco"
+			],
+			[
+				"mu",
+				"multimidia"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"lam",
+				"lampada-apagada"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ce",
+				"cecece"
+			],
+			[
+				"F",
+				"FonteLogo"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"backgron",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"v",
+				"View Package File"
+			],
+			[
+				"HT",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/SENAC - Curso  HTML 5/Daniel/Aula04/index.html",
+		"/D/Pag.Dani/index.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/index",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/index.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/fale-conosco.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_css/form.css",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/fotos.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/multimidia.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/specs.html",
+		"/G/SENAC - Curso  HTML 5/Daniel/Aula03/index.html",
+		"/G/SENAC - Curso  HTML 5/Daniel/Aula03/html5.html",
+		"/G/SENAC - Curso  HTML 5/Daniel/Aula03/css3.html",
+		"/G/SENAC - Curso  HTML 5/Daniel/Aula03/javascript.html",
+		"/G/SENAC - Curso  HTML 5/Daniel/Aula01/index.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_css/media.css",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_css/estilo.css",
+		"/D/SENAC - Curso  HTML 5/Daniel/Aula03/index.html",
+		"/D/SENAC - Curso  HTML 5/Daniel/Aula03/css3.html",
+		"/D/SENAC - Curso  HTML 5/Daniel/Aula03/html5.html",
+		"/D/SENAC - Curso  HTML 5/Daniel/Aula03/javascript.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_css/fotos.css",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_css/specs.css",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_textos/fotos-txt.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_textos/specs-txt.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/google-glass.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/_javascript/funcoes.js",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/testeJS02.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/testeLs03.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/testeJS01.html",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/Daniel Jedi/Desktop/ola-mundo.html",
+		"/C/Program Files/Sublime Text 3/HTML 5/projeto-glass-html5/index.html",
+		"/C/Users/Daniel Jedi/Desktop/Curso em Video/HTML 5/projeto-glass-html5/Simbolos_Especiais.html",
+		"/C/Users/Daniel Jedi/AppData/Roaming/Sublime Text 3/Packages/Default/Add Line Before.sublime-macro",
+		"/C/Users/Daniel Jedi/Desktop/minha_pagina.html",
+		"/C/Users/Daniel Jedi/Desktop/Formularios.html",
+		"/C/Users/Daniel Jedi/Desktop/index.html",
+		"/C/Users/Daniel Jedi/Desktop/Tebelas.html",
+		"/C/Users/Daniel Jedi/Desktop/Criar_Links.html",
+		"/C/Users/Daniel Jedi/Desktop/pagina2.html",
+		"/C/Users/Daniel Jedi/Desktop/5719.eps",
+		"/C/Users/Daniel Jedi/Desktop/5719.jpg"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
